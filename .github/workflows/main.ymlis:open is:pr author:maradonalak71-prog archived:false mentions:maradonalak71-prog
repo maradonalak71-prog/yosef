@@ -1,0 +1,4 @@
+pip install telethon
+pip install datetime 
+pip install pytz
+pip install requests
